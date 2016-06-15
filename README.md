@@ -2,6 +2,8 @@
 
 exploring class design, design patterns, 1.8 features and concurrency
 
+these projects were completed in Jessica Master's Advanced Java course at CCSF.
+
 <h4>Practice</h4>
 <ol id="yui_3_15_0_2_1466015198822_228">
 <li><span style="font-size: 13.6px; line-height: 1.4;">Write a Book class described by the following:</span>
